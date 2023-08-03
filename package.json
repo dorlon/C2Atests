@@ -11,8 +11,6 @@
   "devDependencies": {
     "cypress": "^12.17.2",
     "cypress-iframe": "^1.0.1",
-    "pdf-diff": "^0.1.1",
-    "pdf-text-extract": "^1.5.0",
-    "pdfjs-dist": "^3.9.179"
+    "pdf-parse": "^1.1.1"
   }
 }
